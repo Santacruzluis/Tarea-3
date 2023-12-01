@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "nombre": "Luis",
+        "apellido": "Santacruz",
+        "entradas": 1,
+        "fechaAcceso": [
+            "28-11-2023 14:37:23"
+        ],
+        "user": "luisma",
+        "pass": "santa04",
+        "nivelAcceso": "1"
+    },
+    {
+        "id": "2",
+        "nombre": "Angel",
+        "apellido": "Espinoza",
+        "entradas": 3,
+        "fechaAcceso": [
+            "28-11-2023 02:29:15",
+            "30-11-2023 02:30:49",
+            "01-12-2023 01:12:13"
+        ],
+        "user": "angels",
+        "pass": "angel24",
+        "nivelAcceso": "2"
+    },
+    {
+        "id": "3",
+        "nombre": "Victor",
+        "apellido": "Rojas",
+        "entradas": 2,
+        "fechaAcceso": [
+            "28-11-2023 14:37:23",
+            "01-12-2023 14:57:06"
+        ],
+        "user": "vitr",
+        "pass": "rojas1",
+        "nivelAcceso": "2"
+    },
+    {
+        "id": "4",
+        "nombre": "Saul",
+        "apellido": "Acosta",
+        "entradas": 1,
+        "user": "saul12",
+        "pass": "ascos25",
+        "nivelAcceso": "2",
+        "fechaAcceso": [
+            "01-12-2023 14:56:02"
+        ]
+    }
+]

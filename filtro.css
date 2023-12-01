@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input[type="submit"] {
+    margin-top: 10px;
+}
+
+ul.socios-list {
+    list-style: none;
+    padding: 0;
+}
+
+.socio-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.socio-item strong {
+    font-weight: bold;
+}
+
+.no-data {
+    font-style: italic;
+    color: #888;
+}
